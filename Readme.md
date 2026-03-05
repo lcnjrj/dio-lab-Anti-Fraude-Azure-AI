@@ -65,3 +65,9 @@ A aplicação avalia a validade do documento baseada em:
 * **Presença de Campos Chave:** Verifica se campos obrigatórios como CPF ou Data de Nascimento foram detectados com clareza.
 
 ==X==
+
+### TEXTOS Relevantes Para entender do assunto:
+**https://www.dio.me/articles/desvendando-o-azure-ai-um-guia-tecnico-para-iniciantes-e-estudantes-6bbbd56ea00b
+**https://www.nuvei.com/br/postagens/real-time-fraud-detection-strategies-for-2026-boost-approvals-now
+**https://learn.microsoft.com/pt-br/azure/ai-services/content-understanding/document/analyzer-improvement
+**https://learn.microsoft.com/pt-br/azure/foundry-classic/openai/how-to/risks-safety-monitor?view=foundry-classic
