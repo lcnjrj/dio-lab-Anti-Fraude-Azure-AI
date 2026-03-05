@@ -20,6 +20,14 @@ O sistema automatiza a extração de dados de documentos (RG, CNH, Passaportes o
 * **Serviço de IA:** Azure AI Document Intelligence
 * **Bibliotecas:** `azure-ai-formrecognizer`, `azure-core`, `python-dotenv`
 
+
+## TEXTOS Relevantes Para entender do assunto:
+**https://www.dio.me/articles/desvendando-o-azure-ai-um-guia-tecnico-para-iniciantes-e-estudantes-6bbbd56ea00b
+**https://www.nuvei.com/br/postagens/real-time-fraud-detection-strategies-for-2026-boost-approvals-now
+**https://learn.microsoft.com/pt-br/azure/ai-services/content-understanding/document/analyzer-improvement
+**https://learn.microsoft.com/pt-br/azure/foundry-classic/openai/how-to/risks-safety-monitor?view=foundry-classic
+
+
 ## Pré-requisitos
 
 Antes de começar, você precisará de:
@@ -66,8 +74,3 @@ A aplicação avalia a validade do documento baseada em:
 
 ==X==
 
-### TEXTOS Relevantes Para entender do assunto:
-**https://www.dio.me/articles/desvendando-o-azure-ai-um-guia-tecnico-para-iniciantes-e-estudantes-6bbbd56ea00b
-**https://www.nuvei.com/br/postagens/real-time-fraud-detection-strategies-for-2026-boost-approvals-now
-**https://learn.microsoft.com/pt-br/azure/ai-services/content-understanding/document/analyzer-improvement
-**https://learn.microsoft.com/pt-br/azure/foundry-classic/openai/how-to/risks-safety-monitor?view=foundry-classic
